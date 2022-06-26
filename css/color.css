@@ -37,3 +37,16 @@
 .text-light-red {
     color: #bf3252;
 }
+
+.text-dark {
+    color: #746f7f;
+}
+
+.text-light-dark {
+    color: #7d7d7d;
+}
+
+.bg-light-dark {
+    background-color: #e5e2e2;
+}
+
